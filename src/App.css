@@ -64,6 +64,7 @@ button span {
     
 button:hover {
     animation: rotate 0.7s ease-in-out both;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.29), 0 6px 6px rgba(0,0,0,0.23);
   }
     
 button:hover span {
@@ -112,4 +113,10 @@ button:hover span {
         width: 80%;
         height: 30%;
     }
+  }
+  @media (max-width: 1000px) {
+      .card{
+          width: 80%;
+          height: 30%;
+      }
   }
