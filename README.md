@@ -1,6 +1,6 @@
 # Random Quote Generator using React and Advice Slip JSON API.
 
-🧩WebApp Link to see live ⮕[Demo](https://expense-tracker-react-rushikesh-patil.netlify.app/) </br>
+🧩WebApp Link to see live ⮕[Demo](https://advice-app-rushikesh-patil.netlify.app/) </br>
 📊This site was built using ⮕[Netlify](https://app.netlify.com/)</br> 
 
 
